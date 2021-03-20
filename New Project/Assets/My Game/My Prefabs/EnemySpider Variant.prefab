@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7660428380308137995
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1948334747064844, guid: 9a4ebb15f3e3a7a4f9e6e4b677af6cb7, type: 3}
+      propertyPath: m_Name
+      value: EnemySpider
+      objectReference: {fileID: 0}
+    - target: {fileID: 4671227132820544, guid: 9a4ebb15f3e3a7a4f9e6e4b677af6cb7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 45.35672
+      objectReference: {fileID: 0}
+    - target: {fileID: 4671227132820544, guid: 9a4ebb15f3e3a7a4f9e6e4b677af6cb7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.562233
+      objectReference: {fileID: 0}
+    - target: {fileID: 4671227132820544, guid: 9a4ebb15f3e3a7a4f9e6e4b677af6cb7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.0557861
+      objectReference: {fileID: 0}
+    - target: {fileID: 4671227132820544, guid: 9a4ebb15f3e3a7a4f9e6e4b677af6cb7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4671227132820544, guid: 9a4ebb15f3e3a7a4f9e6e4b677af6cb7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4671227132820544, guid: 9a4ebb15f3e3a7a4f9e6e4b677af6cb7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4671227132820544, guid: 9a4ebb15f3e3a7a4f9e6e4b677af6cb7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4671227132820544, guid: 9a4ebb15f3e3a7a4f9e6e4b677af6cb7, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4671227132820544, guid: 9a4ebb15f3e3a7a4f9e6e4b677af6cb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4671227132820544, guid: 9a4ebb15f3e3a7a4f9e6e4b677af6cb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4671227132820544, guid: 9a4ebb15f3e3a7a4f9e6e4b677af6cb7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 82726393006173414, guid: 9a4ebb15f3e3a7a4f9e6e4b677af6cb7,
+        type: 3}
+      propertyPath: MinDistance
+      value: 5.537117
+      objectReference: {fileID: 0}
+    - target: {fileID: 114137705700059154, guid: 9a4ebb15f3e3a7a4f9e6e4b677af6cb7,
+        type: 3}
+      propertyPath: currentHealth
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 114166771760918434, guid: 9a4ebb15f3e3a7a4f9e6e4b677af6cb7,
+        type: 3}
+      propertyPath: ProjectileObject
+      value: 
+      objectReference: {fileID: 1000012403559014, guid: 32d4ebbdad520f34f84130f051d35bbb,
+        type: 3}
+    - target: {fileID: 114416376077633418, guid: 9a4ebb15f3e3a7a4f9e6e4b677af6cb7,
+        type: 3}
+      propertyPath: speedLimit
+      value: 80
+      objectReference: {fileID: 0}
+    - target: {fileID: 114416376077633418, guid: 9a4ebb15f3e3a7a4f9e6e4b677af6cb7,
+        type: 3}
+      propertyPath: acceleration
+      value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 114416376077633418, guid: 9a4ebb15f3e3a7a4f9e6e4b677af6cb7,
+        type: 3}
+      propertyPath: rotateSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 114416376077633418, guid: 9a4ebb15f3e3a7a4f9e6e4b677af6cb7,
+        type: 3}
+      propertyPath: attackDmg
+      value: 2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9a4ebb15f3e3a7a4f9e6e4b677af6cb7, type: 3}
